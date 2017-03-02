@@ -3,12 +3,12 @@
 		<link>
 			<name>My Github</name>
 			<url>https://github.com/NBonaparte</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
+			<iconclass>fa fa-user</iconclass>
 		</link>
 		<link>
 			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3</url>
-			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+			<url>https://github.com/supermamon/Reposi3/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
