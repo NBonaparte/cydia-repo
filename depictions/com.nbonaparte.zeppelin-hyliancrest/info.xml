@@ -6,7 +6,12 @@
 	<descriptionlist>
 		<description>Hylian Crest from Legend of Zelda Zeppelin Logo</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>scrot.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
