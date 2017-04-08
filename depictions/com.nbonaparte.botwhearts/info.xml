@@ -1,0 +1,15 @@
+<package>
+	<id>com.nbonaparte.botwhearts</id>
+	<name>BotW Hearts</name>
+	<version>1.0.0-1</version>
+	<compatibility></compatibility>
+	<dependencies>com.tweakingsdev.lithiumion</dependencies>
+	<descriptionlist>
+		<description>Breath of the Wild-inspired Lithium Ion theme</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
