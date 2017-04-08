@@ -1,0 +1,14 @@
+<package>
+	<id>com.nbonaparte.zeppelin-hyliancrest</id>
+	<name>Hylian Crest Zeppelin Logo</name>
+	<version>1.0.0-1</version>
+	<compatibility></compatibility>
+	<descriptionlist>
+		<description>Hylian Crest from Legend of Zelda Zeppelin Logo</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
