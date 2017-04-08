@@ -1,0 +1,14 @@
+<package>
+	<id>com.nbonaparte.lockglyph-sheikahslate</id>
+	<name>Sheikah Slate LockGlyph</name>
+	<version>1.0.0-1</version>
+	<compatibility></compatibility>
+	<descriptionlist>
+		<description>Sheikah Slate (from BotW) LockGlyph theme</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
